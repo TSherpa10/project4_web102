@@ -1,0 +1,8 @@
+.banlist {
+    width: 30%;
+    min-height: 130%;
+    height: min-content;
+    background-color: #413543;
+    margin-left: 50px;
+    padding-left: 50px;
+}

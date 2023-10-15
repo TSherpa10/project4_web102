@@ -1,0 +1,18 @@
+.seenlist {
+    width: 20%;
+    height: 100vh;
+    padding: 0 0 0 50px;
+    margin-right: 40px;
+}
+
+.seenlist-img {
+    width: 150px;
+    height: 100px;
+}
+
+.seenlist {
+    min-height: 130%;
+    height: fit-content;
+    width: 20%;
+    background-color: #2D033B;
+}
