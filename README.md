@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<!-- Replace this with whatever GIF tool you used! -->
+![Epic Demo!](https://github.com/TSherpa10/project4_web102/blob/main/project4_web102.gif)
 
 GIF created with Kap
 
